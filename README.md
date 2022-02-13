@@ -2,7 +2,7 @@ Olá! Meu nome é Otniel De Souza
 ✨ _special_ ✨ 
 - Estudante de Engenharia de Software 
 - 💬 contate-me no e-mail: tonisouza2018@outlook.com
-- 
+ 
 <div align="center">
   <a href="https://github.com/SouzaOtniel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaOtniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
